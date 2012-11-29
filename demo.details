@@ -5,5 +5,6 @@
    - XTK 
  resources:
    - http://get.goXTK.com/xtk_edge.js
+   - http://get.goXTK.com/xtk_xdat.gui.js
  normalize_css: no
 ...
